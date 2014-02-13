@@ -2,7 +2,7 @@ require 'formula'
 class Erln8 < Formula
 
   homepage ''
-  url 'http://github.com/strmpnk/erln8'
+  url 'http://github.com/strmpnk/erln8.git'
 
   depends_on 'glib'
   depends_on 'pkg-config' => :build
